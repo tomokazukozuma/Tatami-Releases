@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Tatami Updates</title>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/tomokazukozuma/Tatami-Releases/releases/download/v0.0.12/Tatami-1.0.zip" length="432698" type="application/octet-stream" sparkle:edSignature="sparkle:edSignature=&quot;pnJWkqpPb6VaHQd08WfZ/+Kd6p+n04PwuJ7iZ8XrluJsaN3A8l2xjp5EWg1xoDiMsHmIMz2LkIPMBtRV1qXUCA==&quot; length=&quot;432698&quot;"/>
+    </item>
+  </channel>
+</rss>
