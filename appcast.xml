@@ -6,7 +6,7 @@
       <title>Version 1.0</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/tomokazukozuma/Tatami-Releases/releases/download/v0.0.12/Tatami-1.0.zip" length="432698" type="application/octet-stream" sparkle:edSignature="sparkle:edSignature=&quot;pnJWkqpPb6VaHQd08WfZ/+Kd6p+n04PwuJ7iZ8XrluJsaN3A8l2xjp5EWg1xoDiMsHmIMz2LkIPMBtRV1qXUCA==&quot; length=&quot;432698&quot;"/>
+      <enclosure url="https://github.com/tomokazukozuma/Tatami-Releases/releases/download/v0.0.1/Tatami-1.0.zip" length="434103" type="application/octet-stream" sparkle:edSignature="sparkle:edSignature=&quot;XQxwJ6hEMNVTM5FEdMv/DYYD2YKx0/l5v+z87H3GkgLE3hYni1u5Oq8K7cloW+6es+BcuvbWrYrN+O5GUp5lCw==&quot; length=&quot;434103&quot;"/>
     </item>
   </channel>
 </rss>
