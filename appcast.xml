@@ -5,10 +5,10 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.0.9</title>
-      <sparkle:version>0.0.9</sparkle:version>
-      <sparkle:shortVersionString>0.0.9</sparkle:shortVersionString>
-      <enclosure url="https://github.com/tomokazukozuma/Tatami-Releases/releases/download/v0.0.9/Tatami-0.0.9.zip" length="1381445" type="application/octet-stream" sparkle:edSignature="Wr4MRrvBZnAQjl/z/1dokSbmplOpsOuQKKHx+Igcwe2nvycC4XSaETzjYU+tJ5VnMEgh3G6cp1mYmjpvuIa7Bg==" />
+      <title>Version 0.0.10</title>
+      <sparkle:version>0.0.10</sparkle:version>
+      <sparkle:shortVersionString>0.0.10</sparkle:shortVersionString>
+      <enclosure url="https://github.com/tomokazukozuma/Tatami-Releases/releases/download/v0.0.10/Tatami-0.0.10.zip" length="1382148" type="application/octet-stream" sparkle:edSignature="csONLx+j+ES3keedPN73K/ExPYJlfh/i10Z0KVDTS2wWQICk1KjByZ6TPJ+GjzxCWhTobfJtnjrWXkhltcyRAA==" />
     </item>
   </channel>
 </rss>
